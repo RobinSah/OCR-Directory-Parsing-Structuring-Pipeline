@@ -2,6 +2,7 @@ import os
 import time
 import requests
 
+
 # Base URL for the 1910 Minneapolis City Directory (ImageTileRenderer endpoint).
 # The placeholder {} will be replaced with the page number.
 base_url = (
